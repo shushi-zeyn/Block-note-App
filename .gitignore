@@ -1,0 +1,11 @@
+# Dossiers de configuration et temporaires
+.idea/
+__pycache__/
+*.pyc
+
+# Environnement virtuel
+.venv/
+venv/
+
+# Base de données (optionnel : à exclure si tu ne veux pas partager tes notes perso)
+# notes.db

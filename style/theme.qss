@@ -1,0 +1,40 @@
+/* --- Style Global --- */
+QWidget {
+    font-family: 'Segoe UI', 'Roboto', sans-serif;
+    font-size: 14px;
+    border: none;
+}
+
+/* --- Boutons --- */
+QPushButton {
+    border-radius: 18px;
+    padding: 8px 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* --- Blocs Glassmorphism / Solid --- */
+.GlassBox {
+    border-radius: 20px;
+    /* Background et Border gérés dynamiquement dans mainwindow.py */
+}
+
+/* --- Champs de texte --- */
+QLineEdit {
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 16px;
+    background: transparent;
+    border: none;
+}
+
+/* --- Table --- */
+QTableWidget {
+    background-color: transparent;
+    border: none;
+}
+QHeaderView::section {
+    background-color: transparent;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.3);
+    font-weight: bold;
+}
