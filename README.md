@@ -1,6 +1,6 @@
 # NoteBlock ✨
 
-**NoteBlock** est une application de prise de notes de bureau moderne et esthétique, développée en Python avec la bibliothèque PyQt6. Elle offre une interface épurée, des thèmes personnalisables, et des fonctionnalités d'édition de texte riche, le tout sur un fond animé subtil pour une expérience utilisateur unique.
+**NoteBlock** est une application (en beta)de prise de notes de bureau moderne et esthétique, développée en Python avec la bibliothèque PyQt6. Elle offre une interface épurée, des thèmes personnalisables, et des fonctionnalités d'édition de texte riche, le tout sur un fond animé subtil pour une expérience utilisateur unique.
 
 Ce projet a été développé par **Shushi**.
 
