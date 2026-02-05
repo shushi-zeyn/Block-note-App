@@ -4,8 +4,11 @@
 
 Ce projet a été développé par **Shushi**.
 
-![Aperçu de NoteBlock en thème clair](Asset/ICON/wht_sun.png) 
-*(Vous pouvez remplacer ce lien par une capture d'écran de votre application)*
+![Aperçu de NoteBlock en thème clair]
+<img width="1920" height="1020" alt="white_note" src="https://github.com/user-attachments/assets/2ab480c8-35ef-4ca3-829c-0163bbd6f594" />
+
+![Aperçu de NoteBlock en thème sombre]
+<img width="1920" height="1020" alt="black_note" src="https://github.com/user-attachments/assets/5137e7aa-1912-49e9-90a2-3582ddb652d1" />
 
 ---
 
