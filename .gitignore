@@ -6,6 +6,6 @@ __pycache__/
 # Environnement virtuel
 .venv/
 venv/
-
-# Base de données (optionnel : à exclure si tu ne veux pas partager tes notes perso)
-# notes.db
+notes.nb
+# Base de données 
+notes.db
